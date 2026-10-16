@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "version": "0.23.0",
-  "published_at": "2026-10-16T14:52:08Z",
+  "version": "0.23.1",
+  "published_at": "2026-10-16T16:10:55Z",
   "notes": "Automatische, geprüfte Programmupdates sowie Verbesserungen und Fehlerkorrekturen.",
-  "url": "https://github.com/RiccardoCoach/matchanalyse-updates/releases/download/v0.23.0/Matchanalyse_Setup_v0.23.0.exe",
-  "sha256": "f52c53f08a5bbac638fcb1e5e3b98546e153dffa875be2a775504a3334b0bbc6",
-  "size": 243294481
+  "url": "https://github.com/RiccardoCoach/matchanalyse-updates/releases/download/v0.23.1/Matchanalyse_Setup_v0.23.1.exe",
+  "sha256": "3dcfae3b56dbee3caf3bc3f15fee6adf57bb9c9d41ab612c4f41b422bedf4e41",
+  "size": 243294528
 }
